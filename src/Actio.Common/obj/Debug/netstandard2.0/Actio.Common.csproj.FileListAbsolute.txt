@@ -1,0 +1,8 @@
+C:\LearnMicroservices\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.deps.json
+C:\LearnMicroservices\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.dll
+C:\LearnMicroservices\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.pdb
+C:\LearnMicroservices\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.csproj.CoreCompileInputs.cache
+C:\LearnMicroservices\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.AssemblyInfoInputs.cache
+C:\LearnMicroservices\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.AssemblyInfo.cs
+C:\LearnMicroservices\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.dll
+C:\LearnMicroservices\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.pdb

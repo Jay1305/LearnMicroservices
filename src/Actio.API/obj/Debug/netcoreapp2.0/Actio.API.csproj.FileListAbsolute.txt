@@ -1,0 +1,13 @@
+C:\LearnMicroservices\src\Actio.API\bin\Debug\netcoreapp2.0\Actio.API.deps.json
+C:\LearnMicroservices\src\Actio.API\bin\Debug\netcoreapp2.0\Actio.API.runtimeconfig.json
+C:\LearnMicroservices\src\Actio.API\bin\Debug\netcoreapp2.0\Actio.API.runtimeconfig.dev.json
+C:\LearnMicroservices\src\Actio.API\bin\Debug\netcoreapp2.0\Actio.API.dll
+C:\LearnMicroservices\src\Actio.API\bin\Debug\netcoreapp2.0\Actio.API.pdb
+C:\LearnMicroservices\src\Actio.API\bin\Debug\netcoreapp2.0\Actio.Common.dll
+C:\LearnMicroservices\src\Actio.API\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+C:\LearnMicroservices\src\Actio.API\obj\Debug\netcoreapp2.0\Actio.API.csproj.CoreCompileInputs.cache
+C:\LearnMicroservices\src\Actio.API\obj\Debug\netcoreapp2.0\Actio.API.AssemblyInfoInputs.cache
+C:\LearnMicroservices\src\Actio.API\obj\Debug\netcoreapp2.0\Actio.API.AssemblyInfo.cs
+C:\LearnMicroservices\src\Actio.API\obj\Debug\netcoreapp2.0\Actio.API.csproj.CopyComplete
+C:\LearnMicroservices\src\Actio.API\obj\Debug\netcoreapp2.0\Actio.API.dll
+C:\LearnMicroservices\src\Actio.API\obj\Debug\netcoreapp2.0\Actio.API.pdb

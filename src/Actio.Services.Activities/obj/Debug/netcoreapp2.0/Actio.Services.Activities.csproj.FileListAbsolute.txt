@@ -1,0 +1,13 @@
+C:\LearnMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.deps.json
+C:\LearnMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.runtimeconfig.json
+C:\LearnMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.runtimeconfig.dev.json
+C:\LearnMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.dll
+C:\LearnMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.pdb
+C:\LearnMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Common.dll
+C:\LearnMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+C:\LearnMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.csproj.CoreCompileInputs.cache
+C:\LearnMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.AssemblyInfoInputs.cache
+C:\LearnMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.AssemblyInfo.cs
+C:\LearnMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.csproj.CopyComplete
+C:\LearnMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.dll
+C:\LearnMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.pdb
